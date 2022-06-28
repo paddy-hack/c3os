@@ -14,6 +14,7 @@ require (
 	github.com/joho/godotenv v1.4.0
 	github.com/mudler/edgevpn v0.14.4-0.20220509214459-6ed92ef81a25
 	github.com/mudler/go-nodepair v0.0.0-20220507212557-7d47aa3cc1f1
+	github.com/mudler/go-pluggable v0.0.0-20211206135551-9263b05c562e
 	github.com/mudler/yip v0.0.0-20220321143540-2617d71ea02a
 	github.com/onsi/ginkgo/v2 v2.1.3
 	github.com/onsi/gomega v1.18.0
@@ -41,6 +42,7 @@ require (
 	github.com/charmbracelet/bubbletea v0.20.0 // indirect
 	github.com/charmbracelet/lipgloss v0.5.0 // indirect
 	github.com/cheekybits/genny v1.0.0 // indirect
+	github.com/chuckpreslar/emission v0.0.0-20170206194824-a7ddd980baf9 // indirect
 	github.com/containerd/cgroups v1.0.3 // indirect
 	github.com/containerd/console v1.0.3 // indirect
 	github.com/coreos/go-systemd/v22 v22.3.2 // indirect
@@ -70,7 +72,6 @@ require (
 	github.com/gorilla/websocket v1.5.0 // indirect
 	github.com/hashicorp/errwrap v1.1.0 // indirect
 	github.com/hashicorp/go-multierror v1.1.1 // indirect
-	github.com/hashicorp/go-version v1.4.0 // indirect
 	github.com/hashicorp/golang-lru v0.5.4 // indirect
 	github.com/huin/goupnp v1.0.3 // indirect
 	github.com/ipfs/go-cid v0.1.0 // indirect
